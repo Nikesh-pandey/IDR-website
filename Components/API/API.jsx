@@ -29,6 +29,9 @@ export default function TodoFetcher() {
             <p><strong>ID:</strong> {todo.id}</p>
             <p><strong>Title:</strong> {todo.title}</p>
             <p><strong>Completed:</strong> {todo.completed ? "Yes" : "No"}</p>
+            <p><strong>Niraj:</strong> {todo.title}</p>
+
+
         </div>
     );
 }

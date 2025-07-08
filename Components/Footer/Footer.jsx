@@ -12,7 +12,7 @@ const Footer = () => {
                 {/* Contact Us */}
                 <div>
                     <h3 className="text-lg font-semibold mb-3 border-b border-blue-300 pb-1">Contact Us</h3>
-                    <p>kathmandu Supply Management Board</p>
+                    <p>Dang Supply Management Board</p>
                     <p>📞 9876543210</p>
                     <p>✉️ email@gmail.com</p>
                 </div>
